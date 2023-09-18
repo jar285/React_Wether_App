@@ -1,6 +1,7 @@
 import './App.css';
 import {useEffect, useState} from 'react';
 import Icons from './components/icons';
+import './App2.css';
 
 
 function App() {
@@ -67,6 +68,14 @@ function App() {
         <h1>{"City not found"}</h1>
       )}
     </div>
+    <section className="Gokublue">
+  <div class='air air1'></div>
+  <div class='air air1'></div>
+  <div class='air air1'></div>
+  <div class='air air2'></div>
+  <div class='air air3'></div>
+  <div class='air air4'></div>
+</section>
 
     </>
   );
