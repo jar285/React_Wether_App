@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jar285/React_Wether_App/static/css/main.138675a4.css",
+    "main.js": "/jar285/React_Wether_App/static/js/main.bbd0ab71.js",
+    "index.html": "/jar285/React_Wether_App/index.html",
+    "main.138675a4.css.map": "/jar285/React_Wether_App/static/css/main.138675a4.css.map",
+    "main.bbd0ab71.js.map": "/jar285/React_Wether_App/static/js/main.bbd0ab71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.138675a4.css",
+    "static/js/main.bbd0ab71.js"
+  ]
+}
