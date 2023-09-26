@@ -1,7 +1,9 @@
 import './App.css';
 import {useEffect, useState} from 'react';
-import Icons from './components/icons';
+import Icons from './components/Icons';
 import './App2.css';
+
+
 
 
 function App() {
