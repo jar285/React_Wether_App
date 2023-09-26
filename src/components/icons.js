@@ -47,4 +47,4 @@ const Icons = (icon) => {
   return icon
   }
   
-  export default Icons 
+  export default Icons  
