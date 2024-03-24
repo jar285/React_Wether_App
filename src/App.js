@@ -1,6 +1,6 @@
 import './App.css';
 import {useEffect, useState} from 'react';
-import Icons from './components/Icons';
+import Icons from './components/icons';
 import './App2.css';
 
 
